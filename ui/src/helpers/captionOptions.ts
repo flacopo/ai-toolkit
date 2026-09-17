@@ -113,6 +113,7 @@ export const captionerTypes: CaptionOption[] = [
             { value: 'Qwen/Qwen3-VL-30B-A3B-Instruct', label: 'Qwen/Qwen3-VL-30B-A3B-Instruct' },
             { value: 'Qwen/Qwen3.6-27B', label: 'Qwen/Qwen3.6-27B' },
             { value: 'huihui-ai/Huihui-Qwen3.6-27B-abliterated', label: 'huihui-ai/Huihui-Qwen3.6-27B-abliterated' },
+            { value: 'Qwen/Qwen3.8-27B', label: 'Qwen/Qwen3.8-27B' },
         ],
         additionalSections: [
             'caption.caption_prompt',
